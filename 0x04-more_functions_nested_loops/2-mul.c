@@ -1,12 +1,12 @@
-#iniclude "main.h"
+#include "main.h"
 
 /**
- * mul - Multiplies two integers
+ * mul - multipliestwo integers
  *
  * @a: first input
  * @b: second input
  *
- * Return: retun results
+ * Return: return results
  */
 
 int mul(int a, int b)
